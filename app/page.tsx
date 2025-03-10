@@ -207,8 +207,8 @@ export default function Home() {
 			<div className="chatbot-blue">
 				<div className="chat-info">
 					<h3>Azure AI Chatbot</h3>
-					<p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my CV/Resume. You can use it to ask questions about me to get a better idea of who I am and what I've done.</p>
-					<p>You can also download my resume here if you want to take a look at it.  I'm currently looking for new opportunities so if you have a project you think I'd be a good fit for, please get in touch!</p>
+					<p>I&apos;ve put together a chatbot here which knows all my skills, work experience and has a copy of my CV/Resume. You can use it to ask questions about me to get a better idea of who I am and what I&apos;ve done.</p>
+					<p>You can also download my resume here if you want to take a look at it.  I&apos;m currently looking for new opportunities so if you have a project you think I&apos;d be a good fit for, please get in touch!</p>
 					<a href="./Sample_Resume_Template.pdf" className="button black">Download Resume</a>
 				</div>
 				<div className="chat-box">
@@ -217,7 +217,7 @@ export default function Home() {
 							<li>
 								<span className="avatar bot">AI</span>
 								<div className="message">
-									Hi, I'm a friendly chatbot that lets you interactive with this portfolio and CV. How can I help?
+									Hi, I&apos;m a friendly chatbot that lets you interactive with this portfolio and CV. How can I help?
 								</div>
 							</li>
 							<li>
