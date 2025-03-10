@@ -66,7 +66,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-yellow">
-            <Image src="/imgs/hero-image.png" alt="Adrian Twarog" width={400} height={400} />
+            <Image src="/imgs/elvis.jpg" alt="Elvis Ponjevic" width={400} height={400} />
           </div>
         </section>
 
