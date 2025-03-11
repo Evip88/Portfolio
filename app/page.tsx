@@ -55,7 +55,7 @@ export default function Home() {
               </p>
               <div className="call-to-action">
                 <a href="./Sample_Resume_Template.pdf" className="button black">View Resume</a>
-                <a href="mailto:hello@adriantwarog.com" className="button white">Contact Me</a>
+                <a href="Elvisponjevic88@gmail.com" className="button white">Contact Me</a>
               </div>
               <div className="social-links">
                 <a href="#">
@@ -68,14 +68,14 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-yellow">
-            <Image src="/imgs/Elvis.jpg" alt="Elvis Ponjevic" width={400} height={400} />
+            <Image src="/imgs/elvis.jpg" alt="Elvis Ponjevic" width={400} height={400} />
           </div>
         </section>
 
         <section className="logos container">
           <div className="marquee">
             <div className="track">
-              {["html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python"].map((tech) => (
+              {["html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python", "html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python"].map((tech) => (
                 <Image key={tech} src={`/imgs/${tech}.png`} alt={tech.toUpperCase()} width={128} height={128} />
               ))}
             </div>

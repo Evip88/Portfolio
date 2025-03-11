@@ -222,7 +222,7 @@ h1 {
 		flex:1;
 		background-color: var(--yellow);
 		border-radius:30px;
-		padding:0px 30px;
+		padding:30px 30px;
 		display:flex;
 		justify-content:center;
 		align-items:flex-end;
