@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <header>
          <a href="#" className="logo-holder">
-          <div className="logo">L</div>
+          <div className="logo">E</div>
           <div className="logo-text">My Portfolio</div>
         </a>
         <nav>
@@ -210,8 +210,8 @@ I am eager to collaborate, innovate, and grow, bringing value to every project I
 			<div className="chatbot-blue">
 				<div className="chat-info">
 					<h3>Azure AI Chatbot</h3>
-					<p>I&apos;ve put together a chatbot here which knows all my skills, work experience and has a copy of my CV/Resume. You can use it to ask questions about me to get a better idea of who I am and what I&apos;ve done.</p>
-					<p>You can also download my resume here if you want to take a look at it.  I&apos;m currently looking for new opportunities so if you have a project you think I&apos;d be a good fit for, please get in touch!</p>
+					<p>I've built an interactive chatbot that knows all about my skills, experience, and career journey—it even has a copy of my resume! Feel free to ask it anything to learn more about what I bring to the table.</p>
+					<p>If you're looking for a passionate and skilled developer, I'd love to connect! You can also download my resume here and see how my expertise aligns with your needs. Let's build something amazing together! 🚀</p>
 					<a href="./Sample_Resume_Template.pdf" className="button black">Download Resume</a>
 				</div>
 				<div className="chat-box">

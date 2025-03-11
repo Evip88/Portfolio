@@ -50,18 +50,25 @@ header {
 		align-items:center;
 		font-weight:600;
 		color: var(--base-800);
+		text-decoration: none;
 		
 		.logo {
 			display:flex;
 			align-items:center;
 			justify-content:center;
 			font-size:32px;
-			background-color: var(--base-800);
+			background-color: var(--blue);
 			color: var(--base-100);
 			height:64px;
 			width:64px;
 			margin-right:20px;
 			border-radius:50%;
+			&:hover {
+			
+				background-color: var(--yellow);
+				
+			}
+			
 		}
 		.logo-text {
 			flex:1;
