@@ -68,16 +68,17 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-yellow">
-            <Image src="/imgs/elvis.jpg" alt="Elvis Ponjevic" width={400} height={400} />
+            <Image src="/imgs/elvisNew.jpg" alt="Elvis Ponjevic" width={500} height={500} />
           </div>
         </section>
 
         <section className="logos container">
           <div className="marquee">
             <div className="track">
-              {["html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python", "html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python"].map((tech) => (
-                <Image key={tech} src={`/imgs/${tech}.png`} alt={tech.toUpperCase()} width={128} height={128} />
-              ))}
+            {["html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python", "html", "css", "javascript", "sass", "react", "nextjs", "azure", "vscode", "python"].map((tech, index) => (
+               <Image key={`${tech}-${index}`} src={`/imgs/${tech}.png`} alt={tech.toUpperCase()} width={128} height={128} />
+            ))}
+
             </div>
           </div>
         </section>
@@ -231,7 +232,7 @@ I am eager to collaborate, innovate, and grow, bringing value to every project I
 						</ul>
 					</div>
 					<div className="chat-message">
-						<input type="text" placeholder="Hey Adrian, what skills are you best at?"/>
+						<input type="text" placeholder="Hey Elvis, what skills are you best at?"/>
 						<button className="button black">Send</button>
 					</div>
 				</div>
