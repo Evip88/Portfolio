@@ -138,7 +138,7 @@ I am eager to collaborate, innovate, and grow, bringing value to every project I
 						</div>
 					</figure>
 					<h3>YouTube Content Creator</h3>
-					<div>2020-current</div>
+					<div>2000-2025</div>
 					<p>Content creation online teaching people about how to code using HTML, CSS, JS.</p>
 				</article>
 				<article>
@@ -151,7 +151,7 @@ I am eager to collaborate, innovate, and grow, bringing value to every project I
 						</div>
 					</figure>
 					<h3>Moshi Moshi Marketing</h3>
-					<div>20018-2020</div>
+					<div>2000-2025</div>
 					<p>Marketing agency building websites and programming them from the ground up. </p>
 				</article>
 				<article>
@@ -164,7 +164,7 @@ I am eager to collaborate, innovate, and grow, bringing value to every project I
 						</div>
 					</figure>
 					<h3>Chamber of Commerce</h3>
-					<div>2013-2018</div>
+					<div>2000-2025</div>
 					<p>A small to large business organisation that helps facilitate advice and support.</p>
 				</article>
 				
