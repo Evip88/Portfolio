@@ -15,7 +15,7 @@ export default function Home() {
       <header>
          <a href="#" className="logo-holder">
           <div className="logo">L</div>
-          <div className="logo-text">Portfolio Website</div>
+          <div className="logo-text">My Portfolio</div>
         </a>
         <nav>
           <ul id="menu" className={menuOpen ? "active" : ""}>
@@ -29,7 +29,7 @@ export default function Home() {
               <a href="#projects">Projects</a>
             </li>
             <li>
-              <a href="mailto:hello@adriantwarog.com" className="button">Contact Me</a>
+              <a href="Elvisponjevic88@gmail.com" className="button">Contact Me</a>
             </li>
           </ul>
           <a href="#" className="mobile-toggle" onClick={toggleMobileMenu}>
@@ -45,11 +45,13 @@ export default function Home() {
           <div className="hero-blue">
             <div>
               <h1>
-                <small>Hi I'm</small> Adrian Twarog
+                <small>Hi I'm</small> Elvis Ponjevic
               </h1>
               <p>
-                Design and Developer in Australia who creates educational content on YouTube to teach others about HTML, CSS, and JavaScript. 
-                <span>I'm interested in AI topics which is why I also add things like ChatGPT into my projects these days.</span>
+              I’m a dedicated and ambitious Full Stack Developer in training, currently honing my skills in web development. My journey is fueled by a passion for creating seamless, user-friendly digital experiences, combining both frontend creativity and backend logic.
+              <br></br>
+              <br></br>
+                <span> I am continuously learning and expanding my expertise to build modern, scalable applications. I thrive on solving complex problems, optimizing performance, and crafting engaging designs that leave an impact.</span>
               </p>
               <div className="call-to-action">
                 <a href="./Sample_Resume_Template.pdf" className="button black">View Resume</a>
@@ -66,7 +68,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-yellow">
-            <Image src="/imgs/hero-image.png" alt="Adrian Twarog" width={400} height={400} />
+            <Image src="/imgs/Elvis.jpg" alt="Elvis Ponjevic" width={400} height={400} />
           </div>
         </section>
 
@@ -108,12 +110,12 @@ export default function Home() {
             <div className="right-column">
               <h3>A bit about me</h3>
               <p>
-                Hi  Adrian Twarog, a designer and developer who creates educational content on YouTube to teach others about HTML, CSS, and JavaScript. 
-                 interested in AI topics which is why I also add things like ChatGPT into my projects these days!
+                I am an aspiring Full Stack Developer with a passion for building modern, efficient, and user-friendly web applications. Currently advancing my skills in frontend and backend development, I thrive on problem-solving and crafting seamless digital experiences.
               </p>
               <p>
-                currently working on a project that uses Azure AI to create a chatbot that can help answer questions about web development. 
-                 also working on a project that uses React and Next.js to create a portfolio website design that looks good.
+              With a strong foundation in HTML, CSS, JavaScript, React, and Node.js, I am continuously expanding my expertise to stay ahead in the ever-evolving tech landscape. My approach is driven by clean code, performance optimization, and a user-centric mindset.
+
+I am eager to collaborate, innovate, and grow, bringing value to every project I work on. Let’s connect and create something impactful!
               </p>
             </div>
           </div>
